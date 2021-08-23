@@ -1,2 +1,3 @@
 # portfolio
-How to run the site? Just click on the following link: 
+Run the site by clicking on the following link: 
+https://fircec.github.io/portfolio/
